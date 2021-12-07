@@ -3,7 +3,7 @@
 - 🖋️ 我的笔名是：`HinGwenWoong`，因为种种原因，Github 一直没改过来
 - 🔠 信奉的一句话：共同进步！
 - 👷 作品： 🔥[安全帽检测 - Smart_Construction](https://github.com/PeterH0323/Smart_Construction) | [STM32 HTTPS](https://github.com/PeterH0323/STM32_HTTPs_WolfSSL) | 请帮我点星星 🌟
-- 👨‍💻 经历：机械结构🤖 + 嵌入式开发⚡ + 云服务器开发 ☁️ 的全栈工程师
+- 👨‍💻 经历：机械结构🤖 + 嵌入式开发⚡ + 云服务器开发☁️ + AI算法工程师🎯 的全栈工程师
 - 📓 个人技术博客：[CSDN](https://blog.csdn.net/hxj0323)
 - 💬 微信：HinGwenWoong
 
