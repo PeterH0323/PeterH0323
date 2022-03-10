@@ -4,6 +4,18 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/PeterH0323" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=PeterH0323&title_color=00314f&text_color=00314f&bg_color=f9cdad" alt="PeterH0323's Stats" >
+  </a>
+</p>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterh0323&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+</p> -->
+
+---
+
 ### Something about me 
 
 - 🖋️ 笔名：`HinGwenWoong`，因为种种原因，Github 一直没改过来 🤣
@@ -43,17 +55,6 @@
 <code><img height="30" src="https://user-images.githubusercontent.com/25873202/157568533-9799891f-82cd-42e9-b76a-44b4bd8163ba.png" alt="SolidWorks" title="SolidWorks"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25873202/157568582-331b6b0b-7acc-444a-ac99-dee43d67850e.png" alt="Autodesk CAD" title="Autodesk CAD"></code>
 
----
-
-<p align="center">
-  <a href="https://github.com/PeterH0323" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=PeterH0323&title_color=00314f&text_color=00314f&bg_color=f9cdad" alt="PeterH0323's Stats" >
-  </a>
-</p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterh0323&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-</p> -->
 
 
 <!--
