@@ -49,13 +49,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/29084184/128668555-59d96329-2e64-4370-bfdc-89bf7a12aea8.png" alt="ARM-Keil" title="ARM-Keil"></code>
 <code><img height="20" src="https://images.nowcoder.com/images/20180629/0_1530258305740_67F7BB46DE9FC78164CA628F2CE05C37" alt="PyCharm" title="PyCharm"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
-
-
-
-
+<code><img height="20" src="https://user-images.githubusercontent.com/29084184/128668555-59d96329-2e64-4370-bfdc-89bf7a12aea8.png" alt="ARM-Keil" title="ARM-Keil"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/25873202/157567814-a3b66c30-f2e5-4b6f-a211-0269d5e3325d.png" alt="Altium Designer" title="Altium Designer"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/25873202/157568533-9799891f-82cd-42e9-b76a-44b4bd8163ba.png" alt="SolidWorks" title="SolidWorks"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/25873202/157568582-331b6b0b-7acc-444a-ac99-dee43d67850e.png" alt="Autodesk CAD" title="Autodesk CAD"></code>
 
 <!--
 **PeterH0323/PeterH0323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
