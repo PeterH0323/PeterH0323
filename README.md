@@ -21,7 +21,7 @@
 - 🖋️ 笔名：`HinGwenWoong`，因为种种原因，Github 一直没改过来 🤣
 - 🔠 信奉的一句话：共同进步！
 - 👷 Hot 作品： 🔥[安全帽检测 - Smart_Construction](https://github.com/PeterH0323/Smart_Construction) | [STM32 HTTPS](https://github.com/PeterH0323/STM32_HTTPs_WolfSSL) | 请帮我点星星 🌟
-- 👨‍💻 技术栈：机械结构设计&制造🤖 + 嵌入式开发⚡ + 云端服务开发☁️ + AI算法开发🎯 + CI/CD
+- 👨‍💻 技术栈：机械结构设计&制造🤖 + 嵌入式开发⚡ + 云端服务开发☁️ + AI算法开发🎯 + CI/CD🎡
 - 📓 个人技术博客：[CSDN](https://blog.csdn.net/hxj0323)
 - 💬 微信 ID：HinGwenWoong
 
