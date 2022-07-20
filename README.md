@@ -32,7 +32,7 @@
 - [MMDeploy](https://github.com/open-mmlab/mmdeploy) [![](https://img.shields.io/github/stars/open-mmlab/mmdeploy.svg)](https://github.com/open-mmlab/mmdeploy/stargazers)
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) [![](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR.svg)](https://github.com/PaddlePaddle/PaddleOCR/stargazers)
 - [YOLOv6](https://github.com/meituan/YOLOv6) [![](https://img.shields.io/github/stars/meituan/YOLOv6.svg)](https://github.com/meituan/YOLOv6/stargazers)
-- [tensorrtx](https://github.com/wang-xinyu/tensorrtx)) [![](https://img.shields.io/github/stars/wang-xinyu/tensorrtx.svg)](https://github.com/wang-xinyu/tensorrtx/stargazers)
+- [tensorrtx](https://github.com/wang-xinyu/tensorrtx) [![](https://img.shields.io/github/stars/wang-xinyu/tensorrtx.svg)](https://github.com/wang-xinyu/tensorrtx/stargazers)
 
 ---
  
