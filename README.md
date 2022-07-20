@@ -25,6 +25,12 @@
 - 📓 个人技术博客：[CSDN](https://blog.csdn.net/hxj0323)
 - 💬 微信 ID：HinGwenWoong
 
+### 参与贡献的项目
+- [MMDetection](https://github.com/open-mmlab/mmdetection)
+- [MMDeploy](https://github.com/open-mmlab/mmdeploy)
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+- [YOLOv6](https://github.com/meituan/YOLOv6)
+
 ---
  
 ### Languages and Frameworks
