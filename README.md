@@ -34,6 +34,7 @@
 - [MMDetection](https://github.com/open-mmlab/mmdetection) [![](https://img.shields.io/github/stars/open-mmlab/mmdetection.svg)](https://github.com/open-mmlab/mmdetection/stargazers) 获得 OpenMMLab 2022.4 月度贡献之星 :star2: :star2: :star2:
 - [MMDeploy](https://github.com/open-mmlab/mmdeploy) [![](https://img.shields.io/github/stars/open-mmlab/mmdeploy.svg)](https://github.com/open-mmlab/mmdeploy/stargazers) 获得 OpenMMLab 2022.5 月度贡献之星 :star2: :star2: :star2:
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) [![](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR.svg)](https://github.com/PaddlePaddle/PaddleOCR/stargazers) 获得 PaddleOCR 2W星公庆会活动 贡献者三等奖 🎖
+- [《动手学深度学习》（中文版）](https://github.com/d2l-ai/d2l-zh) [![](https://img.shields.io/github/stars/d2l-ai/d2l-zh.svg)](https://github.com/d2l-ai/d2l-zh/stargazers) 
 - [MMClassification
 ](https://github.com/open-mmlab/mmclassification) [![](https://img.shields.io/github/stars/open-mmlab/mmclassification.svg)](https://github.com/open-mmlab/mmclassification/stargazers)
 - [YOLOv6](https://github.com/meituan/YOLOv6) [![](https://img.shields.io/github/stars/meituan/YOLOv6.svg)](https://github.com/meituan/YOLOv6/stargazers)
