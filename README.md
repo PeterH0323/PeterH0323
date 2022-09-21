@@ -43,6 +43,11 @@
 - [ppl.cv](https://github.com/openppl-public/ppl.cv) [![](https://img.shields.io/github/stars/openppl-public/ppl.cv.svg)](https://github.com/openppl-public/ppl.cv/stargazers)
 
 ---
+
+### 论文
+- comming soon...
+
+---
  
 ### Languages and Frameworks
 
