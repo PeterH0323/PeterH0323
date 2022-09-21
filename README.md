@@ -31,7 +31,7 @@
 ---
 
 ### 参与贡献的项目
-- [MMYOLO](https://github.com/open-mmlab/mmyolo) [![](https://img.shields.io/github/stars/open-mmlab/mmyolo.svg)](https://github.com/open-mmlab/mmclassification/stargazers) 核心贡献者 🚀🚀🚀
+- [MMYOLO](https://github.com/open-mmlab/mmyolo) [![](https://img.shields.io/github/stars/open-mmlab/mmyolo.svg)](https://github.com/open-mmlab/mmyolo/stargazers) 核心贡献者 🚀🚀🚀
 - [MMDetection](https://github.com/open-mmlab/mmdetection) [![](https://img.shields.io/github/stars/open-mmlab/mmdetection.svg)](https://github.com/open-mmlab/mmdetection/stargazers) 获得 OpenMMLab 2022.4 月度贡献之星 :star2: :star2: :star2:
 - [MMDeploy](https://github.com/open-mmlab/mmdeploy) [![](https://img.shields.io/github/stars/open-mmlab/mmdeploy.svg)](https://github.com/open-mmlab/mmdeploy/stargazers) 获得 OpenMMLab 2022.5 月度贡献之星 :star2: :star2: :star2:
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) [![](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR.svg)](https://github.com/PaddlePaddle/PaddleOCR/stargazers) 获得 PaddleOCR 2W星公庆会活动 贡献者三等奖 🎖
