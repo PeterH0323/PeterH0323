@@ -45,10 +45,11 @@
 ---
 
 ### 论文
-- [An integrated underwater structural multi-defects automatic identification and quantification framework for hydraulic tunnel via machine vision and deep learning](https://journals.sagepub.com/doi/10.1177/14759217221122316)
+- An integrated underwater structural multi-defects automatic identification and quantification framework for hydraulic tunnel via machine vision and deep learning
   
   _Yangtao Li, Tengfei Bao, **Xianjun Huang**, Ruijie Wang, Xiaosong Shu, Bo Xu, Jiuzhou Tu, Yuhang Zhou, and Kang Zhang_
-  _Structural Health Monitoring, Sep 2022 (JCR Q1 / SCI Top)_
+  
+  _Structural Health Monitoring, Sep 2022 (JCR Q1 / SCI Top)_ [[Website](https://journals.sagepub.com/doi/10.1177/14759217221122316)]
 
 ---
 
