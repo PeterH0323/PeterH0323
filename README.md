@@ -45,7 +45,7 @@
 ---
 
 ### 论文
-- An integrated underwater structural multi-defects automatic identification and quantification framework for hydraulic tunnel via machine vision and deep learning
+- **An integrated underwater structural multi-defects automatic identification and quantification framework for hydraulic tunnel via machine vision and deep learning**
   
   _Yangtao Li, Tengfei Bao, **Xianjun Huang**, Ruijie Wang, Xiaosong Shu, Bo Xu, Jiuzhou Tu, Yuhang Zhou, and Kang Zhang_
   
