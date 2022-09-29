@@ -49,7 +49,7 @@
   
   _Yangtao Li, Tengfei Bao, **Xianjun Huang**, Ruijie Wang, Xiaosong Shu, Bo Xu, Jiuzhou Tu, Yuhang Zhou, and Kang Zhang_
   
-  _Structural Health Monitoring, Sep 2022 (JCR Q1 / SCI Top)_ [[Website](https://journals.sagepub.com/doi/10.1177/14759217221122316)]
+  _Structural Health Monitoring, Sep 2022 ( JCR Q1 / SCI Top )_ [[Website](https://journals.sagepub.com/doi/10.1177/14759217221122316)]
   
 - comming soon...
 
