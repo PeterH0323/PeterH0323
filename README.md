@@ -49,13 +49,13 @@
   
   _Yangtao Li, Tengfei Bao, **Xianjun Huang**, Ruijie Wang, Xiaosong Shu, Bo Xu, Jiuzhou Tu, Yuhang Zhou, and Kang Zhang_
   
-  _Structural Health Monitoring, Sep 2022 ( JCR Q1 / SCI Top )_ [[Website](https://journals.sagepub.com/doi/10.1177/14759217221122316)]
+  _Structural Health Monitoring, Sep 2022 ( JCR Q1 / SCI 一区 Top )_ [[Website](https://journals.sagepub.com/doi/10.1177/14759217221122316)]
   
 - **Underwater crack pixel-wise identification and quantification for dams via lightweight semantic segmentation and transfer learning**
   
   _Yangtao Li, Tengfei Bao, **Xianjun Huang**, Hao Chen, Bo Xu, Xiaosong Shu, Yuhang Zhou, Qingbo Cao, Jiuzhou Tu, Ruijie Wang, Kang Zhang_
   
-  _Automation in Construction, Volume 144, December 2022 ( JCR Q1 / SCI Top )_ [[Website](https://www.sciencedirect.com/science/article/pii/S0926580522004708)]
+  _Automation in Construction, Volume 144, December 2022 ( JCR Q1 / SCI 一区 Top )_ [[Website](https://www.sciencedirect.com/science/article/pii/S0926580522004708)]
 
 - comming soon...
 
