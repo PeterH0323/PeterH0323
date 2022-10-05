@@ -40,7 +40,6 @@
 ](https://github.com/open-mmlab/mmclassification) [![](https://img.shields.io/github/stars/open-mmlab/mmclassification.svg)](https://github.com/open-mmlab/mmclassification/stargazers)
 - [YOLOv6](https://github.com/meituan/YOLOv6) [![](https://img.shields.io/github/stars/meituan/YOLOv6.svg)](https://github.com/meituan/YOLOv6/stargazers)
 - [tensorrtx](https://github.com/wang-xinyu/tensorrtx) [![](https://img.shields.io/github/stars/wang-xinyu/tensorrtx.svg)](https://github.com/wang-xinyu/tensorrtx/stargazers)
-- [ppl.cv](https://github.com/openppl-public/ppl.cv) [![](https://img.shields.io/github/stars/openppl-public/ppl.cv.svg)](https://github.com/openppl-public/ppl.cv/stargazers)
 
 ---
 
