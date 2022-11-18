@@ -45,16 +45,12 @@
 
 ### 论文
 - **An integrated underwater structural multi-defects automatic identification and quantification framework for hydraulic tunnel via machine vision and deep learning**
-  
-  _Yangtao Li, Tengfei Bao, **Xianjun Huang**, Ruijie Wang, Xiaosong Shu, Bo Xu, Jiuzhou Tu, Yuhang Zhou, and Kang Zhang_
-  
-  _Structural Health Monitoring, Sep 2022 ( JCR Q1 / SCI 一区 Top )_ [[Website](https://journals.sagepub.com/doi/10.1177/14759217221122316)]
+  </br>_Yangtao Li, Tengfei Bao, **Xianjun Huang**, Ruijie Wang, Xiaosong Shu, Bo Xu, Jiuzhou Tu, Yuhang Zhou, and Kang Zhang_
+  </br>Structural Health Monitoring, Sep 2022 ( JCR Q1 / SCI 一区 Top ) [[Website](https://journals.sagepub.com/doi/10.1177/14759217221122316)]
   
 - **Underwater crack pixel-wise identification and quantification for dams via lightweight semantic segmentation and transfer learning**
-  
-  _Yangtao Li, Tengfei Bao, **Xianjun Huang**, Hao Chen, Bo Xu, Xiaosong Shu, Yuhang Zhou, Qingbo Cao, Jiuzhou Tu, Ruijie Wang, Kang Zhang_
-  
-  _Automation in Construction, Volume 144, December 2022 ( JCR Q1 / SCI 一区 Top )_ [[Website](https://www.sciencedirect.com/science/article/pii/S0926580522004708)]
+  </br>_Yangtao Li, Tengfei Bao, **Xianjun Huang**, Hao Chen, Bo Xu, Xiaosong Shu, Yuhang Zhou, Qingbo Cao, Jiuzhou Tu, Ruijie Wang, Kang Zhang_
+  </br>Automation in Construction, Volume 144, December 2022 ( JCR Q1 / SCI 一区 Top ) [[Website](https://www.sciencedirect.com/science/article/pii/S0926580522004708)]
 
 - comming soon...
 
