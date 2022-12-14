@@ -7,11 +7,8 @@
 
 ---
 
-
 <p align="center">
-  <a href="https://github.com/PeterH0323" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=PeterH0323&title_color=00314f&text_color=00314f&bg_color=f9cdad" alt="PeterH0323's Stats" >
-  </a>
+   <img src="https://github-readme-stats.vercel.app/api?username=PeterH0323&title_color=00314f&text_color=00314f&bg_color=f9cdad" alt="PeterH0323's Stats" >
 </p>
 
 <p align="center">
@@ -98,8 +95,8 @@
   <br/>
   <img alt="VS Code" src="https://img.shields.io/badge/VSCode-3860c4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img alt="PyCharm" src="https://img.shields.io/badge/VSCode-3860c4?style=for-the-badge&logo=pycharm">
-  <img alt="CLion" src="https://img.shields.io/badge/CLion-000?logo=clion&logoColor=fff&style=flat">
-  <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat">
+  <img alt="CLion" src="https://img.shields.io/badge/CLion-000?logo=clion&logoColor=fff&style=for-the-badge">
+  <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=for-the-badge">
   <br/>
   <img alt="Keil" src="https://img.shields.io/badge/Keil-0084ab?style=for-the-badge&logo=arm&logoColor=white">
   <img alt="Altium Designer" src="https://img.shields.io/badge/Altium%20Designer-A5915F?logo=altiumdesigner&logoColor=fff&style=for-the-badge">
