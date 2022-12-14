@@ -7,15 +7,16 @@
 
 ---
 
+
 <p align="center">
   <a href="https://github.com/PeterH0323" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=PeterH0323&title_color=00314f&text_color=00314f&bg_color=f9cdad" alt="PeterH0323's Stats" >
   </a>
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterh0323&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-</p> -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeterH0323&theme=vue"/>
+</p>
 
 ---
 
@@ -64,45 +65,44 @@
  
 ### Languages and Frameworks
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" title="C"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" alt="Qt" title="Qt"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25873202/157438255-146219ed-9044-4547-8548-07f15accd1fb.png" alt="pytorch" title="pytorch"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25873202/157436606-3556eb47-31fc-44db-a8bb-2cc17bdcb19c.png" alt="Flask" title="Flask"></code>
-<code><img height="30" src="https://camo.githubusercontent.com/ce9fb3389462f2c9444f863e410f0d17d04b216beba8749a015011887eadfbaf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e63762f6f70656e63762d69636f6e2e737667" alt="OpenCV" title="OpenCV"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25873202/157439497-6301c01b-6b90-450b-b5e5-9ec9e702d786.png" alt="TensorRT" title="TensorRT"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25873202/157440042-96796380-4df4-4a74-a2e3-0d10400376d7.svg" alt="Vue.js" title="Vue.js"></code>
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3572a5?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/Pytorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img alt="PaddlePaddle" src="https://img.shields.io/badge/PaddlePaddle-1527c2?style=for-the-badge&logo=paddlepaddle&logoColor=white">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <br/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-f34b7d?style=for-the-badge&logo=c%2b%2b">
+  <img alt="C" src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c">
+  <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-ff2a44?style=for-the-badge&logo=opencv">
+  <img alt="TensorRT" src="https://img.shields.io/badge/TensorRT-275f02?style=for-the-badge&logo=nvidia">
+  <img alt="ROS" src="https://img.shields.io/badge/ROS-15253e?style=for-the-badge&logo=ROS">
+  <img alt="FreeRTOS" src="https://img.shields.io/badge/FreeRTOS-8ac55e?style=for-the-badge&logo=freertos">
+  <br/>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-563d7c?style=for-the-badge&logo=css3">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-007777?style=for-the-badge&logo=vue.js">
+</p>
 
 
 ### Tools
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes" title="kubernetes"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25873202/157435869-36af725e-9a1b-4db3-85d2-a1af11307c86.svg" alt="Jenkins" title="Jenkins"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="30" src="https://images.nowcoder.com/images/20180629/0_1530258305740_67F7BB46DE9FC78164CA628F2CE05C37" alt="PyCharm" title="PyCharm"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/29084184/128668555-59d96329-2e64-4370-bfdc-89bf7a12aea8.png" alt="ARM-Keil" title="ARM-Keil"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25873202/157567814-a3b66c30-f2e5-4b6f-a211-0269d5e3325d.png" alt="Altium Designer" title="Altium Designer"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25873202/157568533-9799891f-82cd-42e9-b76a-44b4bd8163ba.png" alt="SolidWorks" title="SolidWorks"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25873202/157568582-331b6b0b-7acc-444a-ac99-dee43d67850e.png" alt="Autodesk CAD" title="Autodesk CAD"></code>
-
-
-
-<!--
-**PeterH0323/PeterH0323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=whitet">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img alt="CircleCI" src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white">
+  <br/>
+  <img alt="VS Code" src="https://img.shields.io/badge/VSCode-3860c4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img alt="PyCharm" src="https://img.shields.io/badge/VSCode-3860c4?style=for-the-badge&logo=pycharm">
+  <img alt="CLion" src="https://img.shields.io/badge/CLion-000?logo=clion&logoColor=fff&style=flat">
+  <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat">
+  <br/>
+  <img alt="Keil" src="https://img.shields.io/badge/Keil-0084ab?style=for-the-badge&logo=arm&logoColor=white">
+  <img alt="Altium Designer" src="https://img.shields.io/badge/Altium%20Designer-A5915F?logo=altiumdesigner&logoColor=fff&style=for-the-badge">
+  <img alt="Autodesk CAD" src="https://img.shields.io/badge/Autodesk%20CAD-0696D7?logo=autodesk&logoColor=fff&style=for-the-badge">
+  <img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-e31818?logo=solidworks&logoColor=white&style=for-the-badge">
+</p>
