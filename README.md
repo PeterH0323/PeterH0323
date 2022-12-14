@@ -94,7 +94,7 @@
   <img alt="CircleCI" src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white">
   <br/>
   <img alt="VS Code" src="https://img.shields.io/badge/VSCode-3860c4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img alt="PyCharm" src="https://img.shields.io/badge/VSCode-3860c4?style=for-the-badge&logo=pycharm">
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-fcf849?logo=pycharm&logoColor=fff&style=flat">
   <img alt="CLion" src="https://img.shields.io/badge/CLion-000?logo=clion&logoColor=fff&style=for-the-badge">
   <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=for-the-badge">
   <br/>
