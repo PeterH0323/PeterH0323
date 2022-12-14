@@ -65,7 +65,7 @@
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3572a5?style=for-the-badge&logo=python&logoColor=white">
   <img alt="PyTorch" src="https://img.shields.io/badge/Pytorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img alt="PaddlePaddle" src="https://img.shields.io/badge/PaddlePaddle-1527c2?style=for-the-badge&logo=paddlepaddle&logoColor=white">
+  <img alt="PaddlePaddle" src="https://img.shields.io/badge/PaddlePaddle-1527c2?style=for-the-badge&logo=baidu&logoColor=white">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <br/>
