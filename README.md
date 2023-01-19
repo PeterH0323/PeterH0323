@@ -29,7 +29,7 @@
 ---
 
 ### 参与贡献的项目
-- [MMYOLO](https://github.com/open-mmlab/mmyolo) [![](https://img.shields.io/github/stars/open-mmlab/mmyolo.svg)](https://github.com/open-mmlab/mmyolo/stargazers) 核心开发者 🚀🚀🚀
+- [MMYOLO](https://github.com/open-mmlab/mmyolo) [![](https://img.shields.io/github/stars/open-mmlab/mmyolo.svg)](https://github.com/open-mmlab/mmyolo/stargazers) 核心开发者 🚀🚀🚀 OpenMMLab 2022 年度贡献之星 🥇
 - [MMDetection](https://github.com/open-mmlab/mmdetection) [![](https://img.shields.io/github/stars/open-mmlab/mmdetection.svg)](https://github.com/open-mmlab/mmdetection/stargazers) 获得 OpenMMLab 2022.4 月度贡献之星 :star2: :star2: :star2:
 - [MMDeploy](https://github.com/open-mmlab/mmdeploy) [![](https://img.shields.io/github/stars/open-mmlab/mmdeploy.svg)](https://github.com/open-mmlab/mmdeploy/stargazers) 获得 OpenMMLab 2022.5 月度贡献之星 :star2: :star2: :star2:
 - [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) [![](https://img.shields.io/github/stars/open-mmlab/mmdetection3d.svg)](https://github.com/open-mmlab/mmdetection3d/stargazers)
