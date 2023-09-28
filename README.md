@@ -34,9 +34,9 @@
 - [MMDeploy](https://github.com/open-mmlab/mmdeploy) [![](https://img.shields.io/github/stars/open-mmlab/mmdeploy.svg)](https://github.com/open-mmlab/mmdeploy/stargazers) 获得 OpenMMLab 2022.5 月度贡献之星 :star2: :star2: :star2:
 - [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) [![](https://img.shields.io/github/stars/open-mmlab/mmdetection3d.svg)](https://github.com/open-mmlab/mmdetection3d/stargazers)
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) [![](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR.svg)](https://github.com/PaddlePaddle/PaddleOCR/stargazers) 获得 PaddleOCR 2W星公庆会活动 贡献者三等奖 🎖
+- [tvm](https://github.com/apache/tvm) [![](https://img.shields.io/github/stars/apache/tvm.svg)](https://github.com/apache/tvm/stargazers)
 - [d2l-zh](https://github.com/d2l-ai/d2l-zh) [![](https://img.shields.io/github/stars/d2l-ai/d2l-zh.svg)](https://github.com/d2l-ai/d2l-zh/stargazers)《动手学深度学习》（中文版），作者：李沐、阿斯顿·张 等
-- [MMClassification
-](https://github.com/open-mmlab/mmclassification) [![](https://img.shields.io/github/stars/open-mmlab/mmclassification.svg)](https://github.com/open-mmlab/mmclassification/stargazers)
+- [MMClassification](https://github.com/open-mmlab/mmclassification) [![](https://img.shields.io/github/stars/open-mmlab/mmclassification.svg)](https://github.com/open-mmlab/mmclassification/stargazers)
 - [YOLOv6](https://github.com/meituan/YOLOv6) [![](https://img.shields.io/github/stars/meituan/YOLOv6.svg)](https://github.com/meituan/YOLOv6/stargazers)
 - [tensorrtx](https://github.com/wang-xinyu/tensorrtx) [![](https://img.shields.io/github/stars/wang-xinyu/tensorrtx.svg)](https://github.com/wang-xinyu/tensorrtx/stargazers)
 
