@@ -65,8 +65,10 @@
 - comming soon...
 
 ---
- 
-### Languages and Frameworks
+
+### 技术栈
+
+#### Languages and Frameworks
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3572a5?style=for-the-badge&logo=python&logoColor=white">
@@ -88,8 +90,7 @@
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-007777?style=for-the-badge&logo=vue.js">
 </p>
 
-
-### Tools
+#### Tools
 
 <p align="center">
   <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
