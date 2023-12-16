@@ -59,7 +59,7 @@
 
 - **High Precision Cervical Precancerous Lesion Classification Method Based on ConvNeXt**
   </br>_Jing Tang, Ting Zhang, Zeyu Gong and **Xianjun Huang**_
-  </br>Bioengineering, 15 December 2023 ( Q2, IF=4.6 ) [Website](https://www.mdpi.com/2306-5354/10/12/1424)
+  </br>Bioengineering, 15 December 2023 ( Q2, IF=4.6 ) [[Website](https://www.mdpi.com/2306-5354/10/12/1424)]
 
 ---
 
