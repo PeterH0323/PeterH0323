@@ -57,7 +57,9 @@
   </br>_Yangtao Li, Tengfei Bao, **Xianjun Huang**, Hao Chen, Bo Xu, Xiaosong Shu, Yuhang Zhou, Qingbo Cao, Jiuzhou Tu, Ruijie Wang, Kang Zhang_
   </br>Automation in Construction, Volume 144, December 2022 ( JCR Q1 / SCI 一区 Top ) [[Website](https://www.sciencedirect.com/science/article/pii/S0926580522004708)]
 
-- comming soon...
+- **High Precision Cervical Precancerous Lesion Classification Method Based on ConvNeXt**
+  </br>_Jing Tang, Ting Zhang, Zeyu Gong and **Xianjun Huang**_
+  </br>Bioengineering, 15 December 2023 ( Q2, IF=4.6 ) [Website](https://www.mdpi.com/2306-5354/10/12/1424)
 
 ---
 
