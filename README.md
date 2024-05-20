@@ -27,7 +27,7 @@
 
 ### 获取的荣誉
 
-- **OpenMMLab 2022 年度贡献之星** 🥇
+- **OpenMMLab 2022 年度贡献之星** 🥇  [Website](https://openmmlab.com/community/awards-2022)
 - OpenMMLab 2022.4 月度贡献之星 :star2:
 - OpenMMLab 2022.5 月度贡献之星 :star2:
 - PaddleOCR 2W星公庆会活动 贡献者三等奖 🎖
