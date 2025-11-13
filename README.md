@@ -51,20 +51,15 @@
 ### 发表论文
 - **An integrated underwater structural multi-defects automatic identification and quantification framework for hydraulic tunnel via machine vision and deep learning**
   </br>_Yangtao Li, Tengfei Bao, **Xianjun Huang**, Ruijie Wang, Xiaosong Shu, Bo Xu, Jiuzhou Tu, Yuhang Zhou, and Kang Zhang_
-  </br>Structural Health Monitoring, Sep 2022 ( JCR Q1 / SCI 一区 Top ) [[Website](https://journals.sagepub.com/doi/10.1177/14759217221122316)]
+  </br>Structural Health Monitoring, Sep 2022 ( **JCR Q1 / SCI 一区 Top** ) [[Website](https://journals.sagepub.com/doi/10.1177/14759217221122316)]
   
 - **Underwater crack pixel-wise identification and quantification for dams via lightweight semantic segmentation and transfer learning**
   </br>_Yangtao Li, Tengfei Bao, **Xianjun Huang**, Hao Chen, Bo Xu, Xiaosong Shu, Yuhang Zhou, Qingbo Cao, Jiuzhou Tu, Ruijie Wang, Kang Zhang_
-  </br>Automation in Construction, Volume 144, December 2022 ( JCR Q1 / SCI 一区 Top ) [[Website](https://www.sciencedirect.com/science/article/pii/S0926580522004708)]
+  </br>Automation in Construction, Volume 144, December 2022 ( **JCR Q1 / SCI 一区 Top** ) [[Website](https://www.sciencedirect.com/science/article/pii/S0926580522004708)]
 
 - **High Precision Cervical Precancerous Lesion Classification Method Based on ConvNeXt**
   </br>_Jing Tang, Ting Zhang, Zeyu Gong and **Xianjun Huang**_
-  </br>Bioengineering, 15 December 2023 ( Q2, IF=4.6 ) [[Website](https://www.mdpi.com/2306-5354/10/12/1424)]
-
----
-
-### 比赛获奖经历
-- comming soon...
+  </br>Bioengineering, 15 December 2023 ( **Q2, IF=4.6** ) [[Website](https://www.mdpi.com/2306-5354/10/12/1424)]
 
 ---
 
