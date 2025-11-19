@@ -18,7 +18,9 @@
 
 - 🖋️ 笔名：`HinGwenWoong`，因为种种原因，Github 一直没改过来 🤣
 - 🔠 信奉的一句话：共同进步！
-- 👷 Hot 作品： 🔥🔥🔥[销冠 - 卖货主播大模型 - Streamer-Sales](https://github.com/PeterH0323/Streamer-Sales) [![](https://img.shields.io/github/stars/PeterH0323/Streamer-Sales.svg)](https://github.com/PeterH0323/Streamer-Sales/stargazers) | 🔥[安全帽检测 - Smart_Construction](https://github.com/PeterH0323/Smart_Construction) [![](https://img.shields.io/github/stars/PeterH0323/Smart_Construction.svg)](https://github.com/PeterH0323/Smart_Construction/stargazers) | 觉得不错欢迎 star 🌟
+- 👷 Hot 作品 （觉得不错欢迎 star 🌟）：
+  - 🔥🔥🔥[销冠 - 卖货主播大模型 - Streamer-Sales](https://github.com/PeterH0323/Streamer-Sales) [![](https://img.shields.io/github/stars/PeterH0323/Streamer-Sales.svg)](https://github.com/PeterH0323/Streamer-Sales/stargazers)
+  - 🔥[安全帽检测 - Smart_Construction](https://github.com/PeterH0323/Smart_Construction) [![](https://img.shields.io/github/stars/PeterH0323/Smart_Construction.svg)](https://github.com/PeterH0323/Smart_Construction/stargazers) 
 - 👨‍💻 技术栈：机械结构设计&制造🤖 + 嵌入式软硬件开发⚡ + 云端服务开发☁️ + AI算法开发🎯 + CI/CD🎡
 - 📓 个人技术博客：[CSDN](https://blog.csdn.net/hxj0323)
 - 💬 微信 ID：HinGwenWoong
